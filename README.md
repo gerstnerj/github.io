@@ -6,4 +6,8 @@ I'm a self-motivated quick learner, currently attending the Deep Dive Coding Jav
 
 ## Current Projects
 
+* Hello World: Java console application
+
+* Hello World: Android app
+
 ## Links
