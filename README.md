@@ -11,3 +11,11 @@ I'm a self-motivated quick learner, currently attending the Deep Dive Coding Jav
 * Codebreaker: Java application with RESTful service
 
 ## Links
+
+[Josh's github](https://github.com/gerstnerj "Josh's github")
+
+[Google](https://www.google.com "Google home page")
+
+[DuckDuckGo](https://duckduckgo.com)
+
+[Questions](https://lmgtfy.com)
