@@ -19,7 +19,3 @@ I'm a self-motivated quick learner, currently attending the Deep Dive Coding Jav
 [DuckDuckGo](https://duckduckgo.com)
 
 [Questions](https://lmgtfy.com)
-
-> A blockquote indicates that the content is a quote, an e-mail being replied to, etc.
-> 
-> Every line (blank or not) of a blockquote begins with `>`, followed by a space.
